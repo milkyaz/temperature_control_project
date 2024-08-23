@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temperature_control_project/static/css/main.dc288505.css",
+    "main.js": "/temperature_control_project/static/js/main.f4dc7e84.js",
+    "index.html": "/temperature_control_project/index.html",
+    "main.dc288505.css.map": "/temperature_control_project/static/css/main.dc288505.css.map",
+    "main.f4dc7e84.js.map": "/temperature_control_project/static/js/main.f4dc7e84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc288505.css",
+    "static/js/main.f4dc7e84.js"
+  ]
+}
